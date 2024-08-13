@@ -1,0 +1,9 @@
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\libstrength_reduce-10238daa0bf27628.rmeta: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_division.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_multiplication.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\libstrength_reduce-10238daa0bf27628.rlib: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_division.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_multiplication.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\strength_reduce-10238daa0bf27628.d: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_division.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_multiplication.rs
+
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\lib.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_division.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\strength_reduce-0.2.4\src\long_multiplication.rs:

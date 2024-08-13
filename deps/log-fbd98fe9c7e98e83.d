@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\liblog-fbd98fe9c7e98e83.rmeta: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\liblog-fbd98fe9c7e98e83.rlib: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\log-fbd98fe9c7e98e83.d: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs:

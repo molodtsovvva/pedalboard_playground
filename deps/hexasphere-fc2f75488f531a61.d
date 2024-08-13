@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\libhexasphere-fc2f75488f531a61.rmeta: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\interpolation.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\shapes.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\slice.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\libhexasphere-fc2f75488f531a61.rlib: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\interpolation.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\shapes.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\slice.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\hexasphere-fc2f75488f531a61.d: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\interpolation.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\shapes.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\slice.rs
+
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\lib.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\interpolation.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\shapes.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hexasphere-9.1.0\src\slice.rs:

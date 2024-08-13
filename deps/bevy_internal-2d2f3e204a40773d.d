@@ -1,0 +1,9 @@
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\libbevy_internal-2d2f3e204a40773d.rmeta: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\prelude.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\default_plugins.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\libbevy_internal-2d2f3e204a40773d.rlib: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\prelude.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\default_plugins.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\bevy_internal-2d2f3e204a40773d.d: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\prelude.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\default_plugins.rs
+
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\lib.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\prelude.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_internal-0.12.0\src\default_plugins.rs:

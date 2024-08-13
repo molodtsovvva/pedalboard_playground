@@ -1,0 +1,1 @@
+{"rustc":7026534857803070663,"features":"","target":0,"profile":0,"path":0,"deps":[[9731636314710081611,"build_script_build",false,10908286574867797310]],"local":[{"RerunIfChanged":{"output":"release\\build\\winit-46036777f5141e04\\output","paths":["build.rs","wayland_protocols"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

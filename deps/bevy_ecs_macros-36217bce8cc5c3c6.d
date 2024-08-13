@@ -1,0 +1,8 @@
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\bevy_ecs_macros-36217bce8cc5c3c6.dll: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\component.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\fetch.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\states.rs
+
+C:\Users\LocalAdmin\Desktop\universitet\oberlin\cs241\fa23-final-the-bayan-players-lab-final\Sound_Board\target\release\deps\bevy_ecs_macros-36217bce8cc5c3c6.d: C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\lib.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\component.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\fetch.rs C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\states.rs
+
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\lib.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\component.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\fetch.rs:
+C:\Users\LocalAdmin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_ecs_macros-0.12.0\src\states.rs:
